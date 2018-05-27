@@ -1,40 +1,160 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yashvardhandesign.com" resolutions="1x,2x" timestamp="1527240695154">
-  <folder name="assets">
-    <file name="file.eps" crc="8218064" seo="true" mt="1455774794000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yashvardhandesign.com" resolutions="1x,2x" timestamp="1527443628359">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3869948525" ref="index"/>
+    <file name="index.css" crc="522615932" ref="index"/>
+    <file name="nomq_index.css" crc="4066137849" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="untitled-5.css" crc="495403179" ref="untitled-5"/>
+    <file name="skills.css" crc="523440625" ref="skills"/>
+    <file name="nomq_skills.css" crc="264917632" ref="skills"/>
+    <file name="iefonts_skills.css" crc="3824530138" ref="skills"/>
+    <file name="untitled-4.css" crc="495403179" ref="untitled-4"/>
+    <file name="projects.css" crc="495403179" ref="projects"/>
+  </folder>
+  <folder name="assets">
+    <file name="file.eps" crc="8218064" seo="true" mt="1455774794000"/>
+    <file name="cristina-gottardi-462734-unsplash.jpg" crc="26764163" seo="true" mt="1527429523000"/>
+    <file name="rawpixel-668353-unsplash.jpg" crc="3796872797" seo="true" mt="1527430637000"/>
+    <file name="india-school-2.jpg" crc="4216998031" seo="true" mt="1505501078000"/>
+    <file name="board.jpg" crc="3922067102" seo="true" mt="1474318508000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="museutils.js" crc="3803043152" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:skills"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:skills"/>
+    <file name="require.js" crc="4157109226" ref="index:skills:projects:untitled-4:untitled-5"/>
   </folder>
   <folder name="images">
-    <file name="photo for website-crop-u191.jpg" crc="4180776875" seo="true" ref="index">
+    <file name="b.png" crc="285075212" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a293x65.png" crc="4114980937" seo="true" ref="index">
+    <file name="b_2x.png" crc="186357025" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a293x65_2x.png" crc="4114980937" seo="true" ref="index">
+    <file name="photo.png" crc="4034479814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-for-website.jpg" crc="4179392976" seo="true" ref="index">
+    <file name="b196x43.png" crc="4050705515" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b293x64.png" crc="186357025" seo="true" ref="index">
+    <file name="b196x43_2x.png" crc="186357025" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b293x64_2x.png" crc="186357025" seo="true" ref="index">
+    <file name="photo411x424.png" crc="4074804153" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="b157x35.png" crc="171880945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b157x35_2x.png" crc="186357025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo329x339.png" crc="3947721363" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b126x28.png" crc="214546624" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b126x28_2x.png" crc="334411750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-crop-u1262.png" crc="73437869" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:skills"/>
+    <file name="section.png" crc="4046865079" seo="true" ref="skills">
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+    </file>
+    <file name="section_2x.png" crc="11618441" seo="true" ref="skills">
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4020590266" seo="true" mt="1527240515211" redirect="true"/>
+  <file name="index.html" crc="4044751870" seo="true" mt="1527443620513" redirect="true"/>
+  <file name="skills.html" crc="4255440066" seo="true" mt="1527433912460" redirect="true"/>
+  <file name="projects.html" crc="94356310" seo="true" mt="1527250233339" redirect="false"/>
+  <file name="untitled-4.html" crc="3935178299" seo="true" mt="1527245296553" redirect="false"/>
+  <file name="untitled-5.html" crc="3827260455" seo="true" mt="1527397239570" redirect="false"/>
 </manifest>

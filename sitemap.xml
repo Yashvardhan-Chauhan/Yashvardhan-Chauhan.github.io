@@ -2,27 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://yashvardhandesign.com/index.html</loc>
-    <lastmod>2018-05-25</lastmod>
+    <lastmod>2018-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/photo%20for%20website-crop-u191.jpg</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/a293x65.png</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/b_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/a293x65_2x.png</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/photo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/photo-for-website.jpg</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/b196x43.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/b293x64.png</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/b196x43_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://yashvardhandesign.com/images/b293x64_2x.png</image:loc>
+      <image:loc>http://yashvardhandesign.com/images/photo411x424.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/b157x35.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/b157x35_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/photo329x339.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/b126x28.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/b126x28_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/photo-crop-u1262.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/untitled-4.html</loc>
+    <lastmod>2018-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/projects.html</loc>
+    <lastmod>2018-05-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/untitled-5.html</loc>
+    <lastmod>2018-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/skills.html</loc>
+    <lastmod>2018-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/section.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://yashvardhandesign.com/images/section_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/assets/rawpixel-668353-unsplash.jpg</loc>
+    <lastmod>2018-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/assets/india-school-2.jpg</loc>
+    <lastmod>2017-09-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/assets/board.jpg</loc>
+    <lastmod>2016-09-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://yashvardhandesign.com/assets/cristina-gottardi-462734-unsplash.jpg</loc>
+    <lastmod>2018-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://yashvardhandesign.com/assets/file.eps</loc>
