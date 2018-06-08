@@ -1,0 +1,291 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1200px;
+	}
+
+	#pkreeythome
+	{
+		width: 0.01px;
+		margin-left: -351px;
+	}
+
+	#kreeythome
+	{
+		margin-left: 251px;
+	}
+
+	#pu15663-4
+	{
+		margin-top: 96px;
+	}
+
+	#u15663-4
+	{
+		margin-top: 60px;
+		left: 547px;
+	}
+
+	#u15812
+	{
+		width: 730px;
+		padding: 78px 585px 82px 586px;
+	}
+
+	#u15785-4
+	{
+		width: 84px;
+		margin-left: 323px;
+	}
+
+	#u15802-4
+	{
+		width: 730px;
+		min-height: 74px;
+		left: -1px;
+		margin-top: 49px;
+	}
+
+	#u15798
+	{
+		width: 541px;
+		margin-left: 94px;
+		margin-top: 49px;
+	}
+
+	#u15799-4
+	{
+		width: 78px;
+	}
+
+	#u15800-4
+	{
+		width: 114px;
+		min-height: 43px;
+		left: 191px;
+	}
+
+	#u15801-4
+	{
+		width: 124px;
+		min-height: 38px;
+		left: 417px;
+	}
+
+	#u17628,#u17650,#u17666,#u17674,#u17681,#u17688,#u17771,#u17779,#u17786,#u17793,#u17800,#u17807,#pu17892,#u17907,#u17914,#u17921,#u17928,#u17988,#u17996,#u18003,#u18010,#u18017,#u18024
+	{
+		margin-left: 527px;
+	}
+
+	#pu15777
+	{
+		z-index: 28;
+		width: 0.01px;
+		height: 0px;
+		padding-bottom: 590px;
+		margin-right: -10000px;
+	}
+
+	#u15777
+	{
+		width: 94px;
+		padding-bottom: 408px;
+		position: fixed;
+		top: 182px;
+		left: 89px;
+	}
+
+	#u15779
+	{
+		width: 94px;
+		padding-bottom: 309px;
+		position: fixed;
+		top: 280px;
+		left: 89px;
+	}
+
+	#u15782
+	{
+		width: 94px;
+		height: 94px;
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-fr.jpg?crc=4081654301");
+		position: fixed;
+		top: 280px;
+		left: 89px;
+	}
+
+	#u15782:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr.png?crc=148282207");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 94px;
+		height: 94px;
+	}
+
+	#u15782.MuseLinkActive
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-fr.jpg?crc=4081654301");
+		background-color: #F4F4F4;
+		background-color: rgba(244,244,244,1);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 94px;
+		height: 94px;
+	}
+
+	.hidpi #u15782:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr_2x.png?crc=3941211335");
+	}
+
+	.hidpi #u15782,.hidpi #u15782.MuseLinkActive
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-fr_2x.jpg?crc=292818997");
+	}
+
+	#u15780
+	{
+		width: 62px;
+		padding-bottom: 62px;
+		position: fixed;
+		top: 420px;
+		left: 105px;
+	}
+
+	#u15781
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/india-school-2bw-u15781-fr.jpg?crc=2651174");
+		position: fixed;
+		top: 420px;
+		left: 105px;
+	}
+
+	#u15781:hover
+	{
+		background-image: url("../images/india-school-2-u15781-r-fr.jpg?crc=3970452987");
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u15781
+	{
+		background-image: url("../images/india-school-2bw-u15781-fr_2x.jpg?crc=39950880");
+	}
+
+	.hidpi #u15781:hover
+	{
+		background-image: url("../images/india-school-2-u15781-r-fr_2x.jpg?crc=4005263150");
+	}
+
+	#u15783
+	{
+		width: 62px;
+		padding-bottom: 62px;
+		position: fixed;
+		top: 528px;
+		left: 105px;
+	}
+
+	#u15784
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/board%20bw-u15784-fr.jpg?crc=489388870");
+		position: fixed;
+		top: 528px;
+		left: 105px;
+	}
+
+	#u15784:hover
+	{
+		background-image: url("../images/board-u15784-r-fr.png?crc=3803403985");
+		background-color: #F7F7F7;
+		background-color: rgba(244,244,244,0.65);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u15784
+	{
+		background-image: url("../images/board%20bw-u15784-fr_2x.jpg?crc=3765065549");
+	}
+
+	.hidpi #u15784:hover
+	{
+		background-image: url("../images/board-u15784-r-fr_2x.png?crc=3943744818");
+	}
+
+	#u15778
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/cristina-gottardi-bw-unsplash-u15778-fr.jpg?crc=409402341");
+		position: fixed;
+		top: 182px;
+		left: 105px;
+	}
+
+	#u15778:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u15778-r-fr.png?crc=498808237");
+		background-color: #FFFFFF;
+		background-color: rgba(255,255,255,0.6);
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u15778
+	{
+		background-image: url("../images/cristina-gottardi-bw-unsplash-u15778-fr_2x.jpg?crc=3981337796");
+	}
+
+	.hidpi #u15778:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u15778-r-fr_2x.png?crc=464063408");
+	}
+
+	.js #u15782.ose_pre_init,.js #u15781.ose_pre_init,.js #u15784.ose_pre_init,.js #u15778.ose_pre_init
+	{
+		opacity: 0;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+		filter: alpha(opacity=0);
+	}
+
+	#u21538
+	{
+		top: 0px;
+	}
+
+	#u21539-5
+	{
+		top: 37px;
+		left: 120px;
+	}
+
+	body
+	{
+		min-width: 1200px;
+	}
+
+

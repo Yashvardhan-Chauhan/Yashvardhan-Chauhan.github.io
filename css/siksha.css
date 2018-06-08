@@ -1,0 +1,1779 @@
+.version.siksha /* version checker */
+{
+	color: #0000F4;
+	background-color: #03EB5F;
+}
+
+#page
+{
+	border-width: 0px;
+	background-image: none;
+	z-index: 1;
+	min-height: 438px;
+	background-color: transparent;
+	margin-right: auto;
+	border-color: #000000;
+	margin-left: auto;
+	padding-bottom: 62px;
+}
+
+#psikshahome
+{
+	margin-right: -10000px;
+	z-index: 89;
+}
+
+#pu17517-4
+{
+	z-index: 2;
+	width: 0.01px;
+}
+
+#u17517-4
+{
+	color: #FFFFFF;
+	line-height: 18px;
+	z-index: 2;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	font-weight: 700;
+	font-family: amaranth, sans-serif;
+	text-align: center;
+	min-height: 15px;
+	font-size: 15px;
+	width: 58px;
+}
+
+#u17207
+{
+	z-index: 53;
+	background-color: #EFEFEF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u17221-4
+{
+	color: #F75B5B;
+	line-height: 22px;
+	z-index: 54;
+	background-color: transparent;
+	position: relative;
+	font-weight: 700;
+	font-family: amaranth, sans-serif;
+	text-align: center;
+	min-height: 21px;
+	font-size: 18px;
+}
+
+#u17213
+{
+	border-width: 0px;
+	border-color: transparent;
+	z-index: 58;
+	background-color: transparent;
+	position: relative;
+}
+
+#u17216-4
+{
+	color: #7F7F7F;
+	line-height: 19px;
+	z-index: 59;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	font-weight: 700;
+	font-family: amaranth, sans-serif;
+	text-align: center;
+	min-height: 21px;
+	font-size: 16px;
+}
+
+#u17215-4
+{
+	color: #7F7F7F;
+	line-height: 19px;
+	z-index: 63;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	font-weight: 700;
+	font-family: amaranth, sans-serif;
+	text-align: center;
+	font-size: 16px;
+}
+
+#u17214-4
+{
+	color: #7F7F7F;
+	line-height: 19px;
+	z-index: 67;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	font-weight: 700;
+	font-family: amaranth, sans-serif;
+	text-align: center;
+	font-size: 16px;
+}
+
+#u17206-4
+{
+	color: #7F7F7F;
+	z-index: 71;
+	background-color: transparent;
+	position: relative;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	text-align: center;
+	font-size: 14px;
+}
+
+#u17244
+{
+	border-width: 0px;
+	border-color: transparent;
+	z-index: 75;
+	background-color: transparent;
+}
+
+#u17251
+{
+	transition-delay: 0s;
+	z-index: 82;
+	transition-duration: 0s;
+	background-color: transparent;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-webkit-transition-delay: 0s;
+	opacity: 1;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-transition-duration: 0s;
+	border-radius: 50%;
+	background-size: cover;
+}
+
+#u17251:hover
+{
+	transition-delay: 0s;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	transition-duration: 0.1s;
+	border-radius: 0px;
+	-webkit-transition-timing-function: ease;
+	filter: alpha(opacity=100);
+	-webkit-transition-delay: 0s;
+	background-repeat: no-repeat;
+	-webkit-transition-duration: 0.1s;
+	min-height: 0px;
+	background-position: center center;
+	transition-timing-function: ease;
+	margin-bottom: 0px;
+	opacity: 1;
+	-pie-background: rgba(255,255,255,0.6);
+	background-size: cover;
+}
+
+#u17245
+{
+	border-width: 0px;
+	border-color: transparent;
+	z-index: 76;
+	background-color: transparent;
+}
+
+#u17246
+{
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	z-index: 77;
+	transition-duration: 0.1s;
+	background-color: #F4F4F4;
+	-webkit-transition-timing-function: ease-in-out;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-webkit-transition-delay: 0s;
+	opacity: 1;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-transition-duration: 0.1s;
+	border-radius: 50%;
+	background-size: cover;
+}
+
+#u17246:hover
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	min-height: 0px;
+	filter: alpha(opacity=100);
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+	background-position: center center;
+	margin-top: 0px;
+	border-radius: 0px;
+	-pie-background: rgba(244,244,244,0.6);
+	background-size: cover;
+}
+
+#u17247
+{
+	border-width: 0px;
+	border-color: transparent;
+	z-index: 78;
+	background-color: transparent;
+}
+
+#u17248
+{
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	z-index: 79;
+	transition-duration: 0.1s;
+	background-color: #F4F4F4;
+	-webkit-transition-timing-function: ease-in-out;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-webkit-transition-delay: 0s;
+	opacity: 1;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-transition-duration: 0.1s;
+	border-radius: 50%;
+	background-size: cover;
+}
+
+#u17248:hover
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background-repeat: no-repeat;
+	opacity: 1;
+	background-position: center center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	min-height: 0px;
+	-pie-background: rgba(244,244,244,0.6);
+	background-size: cover;
+}
+
+#u17248.MuseLinkActive
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background-repeat: no-repeat;
+	opacity: 1;
+	background-position: center center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	min-height: 0px;
+	-pie-background: rgba(244,244,244,1);
+	background-size: cover;
+}
+
+#u17249
+{
+	border-width: 0px;
+	border-color: transparent;
+	z-index: 80;
+	background-color: transparent;
+}
+
+#u17250
+{
+	transition-delay: 0s;
+	transition-timing-function: ease-in-out;
+	z-index: 81;
+	transition-duration: 0.1s;
+	background-color: #F4F4F4;
+	-webkit-transition-timing-function: ease-in-out;
+	filter: alpha(opacity=100);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-webkit-transition-delay: 0s;
+	opacity: 1;
+	background-position: center center;
+	background-repeat: no-repeat;
+	-webkit-transition-duration: 0.1s;
+	border-radius: 50%;
+	background-size: cover;
+}
+
+#u17250:hover
+{
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	min-height: 0px;
+	filter: alpha(opacity=100);
+	margin-bottom: 0px;
+	background-repeat: no-repeat;
+	opacity: 1;
+	background-position: center center;
+	margin-top: 0px;
+	border-radius: 0px;
+	-pie-background: rgba(244,244,244,0.65);
+	background-size: cover;
+}
+
+#u18393
+{
+	z-index: 7;
+	background-color: transparent;
+	position: relative;
+	margin-top: 283px;
+	width: 1024px;
+}
+
+#u18461
+{
+	background-color: transparent;
+	z-index: 9;
+	width: 1024px;
+	position: relative;
+}
+
+#u18469
+{
+	background-color: transparent;
+	z-index: 11;
+	width: 1024px;
+	position: relative;
+}
+
+#u18476
+{
+	z-index: 13;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+	position: relative;
+}
+
+#u18509
+{
+	background-color: transparent;
+	z-index: 15;
+	width: 1024px;
+	position: relative;
+}
+
+#u18517
+{
+	background-color: transparent;
+	z-index: 17;
+	width: 1024px;
+	position: relative;
+}
+
+#u18524
+{
+	z-index: 19;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+	position: relative;
+}
+
+#u18531
+{
+	background-color: transparent;
+	z-index: 21;
+	width: 1024px;
+	position: relative;
+}
+
+#u18573
+{
+	z-index: 23;
+	background-color: transparent;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+	position: relative;
+}
+
+#u18581
+{
+	background-color: transparent;
+	z-index: 25;
+	width: 1024px;
+	position: relative;
+}
+
+#pu18387
+{
+	z-index: 6;
+	width: 0.01px;
+}
+
+#u18387
+{
+	height: 7641px;
+	z-index: 6;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 289px;
+	width: 10px;
+}
+
+.ie #u18387
+{
+	filter: alpha(opacity=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	background-color: #FFFFFF;
+	opacity: 0.01;
+}
+
+#pu18588
+{
+	margin-right: -10000px;
+	z-index: 27;
+	width: 0.01px;
+	margin-left: 62px;
+	padding-bottom: 0px;
+}
+
+#u18588
+{
+	z-index: 27;
+	width: 1024px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18629
+{
+	z-index: 29;
+	background-color: transparent;
+	position: relative;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+}
+
+#u18637
+{
+	z-index: 31;
+	width: 1024px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18644
+{
+	z-index: 33;
+	width: 1024px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18651
+{
+	z-index: 35;
+	background-color: transparent;
+	position: relative;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+}
+
+#u18658
+{
+	margin-top: 1px;
+	z-index: 37;
+	width: 1024px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18725
+{
+	z-index: 39;
+	background-color: transparent;
+	position: relative;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+}
+
+#u18733
+{
+	z-index: 41;
+	width: 1024px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18740
+{
+	z-index: 43;
+	background-color: transparent;
+	position: relative;
+	top: -1px;
+	margin-bottom: -1px;
+	width: 1024px;
+}
+
+#u18754
+{
+	z-index: 47;
+	background-color: transparent;
+	position: relative;
+	width: 1024px;
+}
+
+#u18761
+{
+	z-index: 49;
+	background-color: transparent;
+	position: relative;
+}
+
+#u18768
+{
+	z-index: 51;
+	background-color: transparent;
+	width: 1024px;
+	position: relative;
+}
+
+#u21612
+{
+	height: 111px;
+	z-index: 83;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u21612-bw
+{
+	z-index: 83;
+}
+
+#u21613-5
+{
+	color: #F75B5B;
+	line-height: 44px;
+	z-index: 84;
+	background-color: transparent;
+	position: fixed;
+	font-weight: 400;
+	font-family: arizonia, sans-serif;
+	font-size: 37px;
+	min-height: 53px;
+	width: 385px;
+}
+
+#u18747
+{
+	left: 176px;
+	z-index: 45;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -3249px;
+	width: 1024px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#sikshahome,body
+{
+	position: relative;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+
+@media (min-width: 1201px), print
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1200px;
+	}
+
+	#psikshahome
+	{
+		width: 0.01px;
+		margin-left: -351px;
+	}
+
+	#sikshahome
+	{
+		margin-left: 251px;
+	}
+
+	#pu17517-4
+	{
+		margin-top: 96px;
+	}
+
+	#u17517-4
+	{
+		margin-top: 60px;
+		left: 547px;
+	}
+
+	#u17207
+	{
+		width: 730px;
+		padding: 78px 585px 82px 586px;
+	}
+
+	#u17221-4
+	{
+		width: 84px;
+		margin-left: 323px;
+	}
+
+	#u17206-4
+	{
+		width: 730px;
+		min-height: 74px;
+		left: -1px;
+		margin-top: 49px;
+	}
+
+	#u17213
+	{
+		width: 541px;
+		margin-left: 94px;
+		margin-top: 49px;
+	}
+
+	#u17216-4
+	{
+		width: 78px;
+	}
+
+	#u17215-4
+	{
+		width: 114px;
+		min-height: 43px;
+		left: 191px;
+	}
+
+	#u17214-4
+	{
+		width: 124px;
+		min-height: 38px;
+		left: 417px;
+	}
+
+	#u18393,#u18461,#u18469,#u18476,#u18509,#u18517,#u18524,#u18531,#u18573,#u18581
+	{
+		margin-left: 527px;
+	}
+
+	#pu18387
+	{
+		margin-left: 465px;
+	}
+
+	#u18754
+	{
+		margin-left: 526px;
+		margin-top: 61px;
+	}
+
+	#u18761
+	{
+		width: 1024px;
+		margin-left: 526px;
+	}
+
+	#u18768
+	{
+		margin-left: 526px;
+		top: -1px;
+		margin-bottom: -1px;
+	}
+
+	#pu17244
+	{
+		z-index: 75;
+		width: 0.01px;
+		height: 0px;
+		padding-bottom: 590px;
+		margin-right: -10000px;
+	}
+
+	#u17244
+	{
+		width: 94px;
+		padding-bottom: 416px;
+		position: fixed;
+		top: 174px;
+		left: 89px;
+	}
+
+	#u17245
+	{
+		width: 94px;
+		padding-bottom: 415px;
+		position: fixed;
+		top: 174px;
+		left: 89px;
+	}
+
+	#u17247
+	{
+		width: 94px;
+		padding-bottom: 94px;
+		position: fixed;
+		top: 387px;
+		left: 89px;
+	}
+
+	#u17248
+	{
+		width: 94px;
+		height: 94px;
+		background-image: url("../images/india-school-2-u17248-fr.jpg?crc=423325842");
+		position: fixed;
+		top: 387px;
+		left: 89px;
+	}
+
+	#u17248:hover
+	{
+		background-image: url("../images/india-school-2-u17248-r-fr.png?crc=473589399");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 94px;
+		height: 94px;
+	}
+
+	#u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2-u17248-fr.jpg?crc=423325842");
+		background-color: #F4F4F4;
+		background-color: rgba(244,244,244,1);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 94px;
+		height: 94px;
+	}
+
+	.hidpi #u17248:hover
+	{
+		background-image: url("../images/india-school-2-u17248-r-fr_2x.png?crc=4190472500");
+	}
+
+	.hidpi #u17248,.hidpi #u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2-u17248-fr_2x.jpg?crc=218591836");
+	}
+
+	#u17246
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/cristina-gottardi-bw-unsplash-u15778-fr.jpg?crc=409402341");
+		position: fixed;
+		top: 174px;
+		left: 105px;
+	}
+
+	#u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u15778-r-fr.png?crc=498808237");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u17246
+	{
+		background-image: url("../images/cristina-gottardi-bw-unsplash-u15778-fr_2x.jpg?crc=3981337796");
+	}
+
+	.hidpi #u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u15778-r-fr_2x.png?crc=464063408");
+	}
+
+	#u17249
+	{
+		width: 62px;
+		padding-bottom: 62px;
+		position: fixed;
+		top: 528px;
+		left: 105px;
+	}
+
+	#u17250
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/board%20bw-u15784-fr.jpg?crc=489388870");
+		position: fixed;
+		top: 528px;
+		left: 105px;
+	}
+
+	#u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr.png?crc=3803403985");
+		background-color: #F7F7F7;
+		background-color: rgba(244,244,244,0.65);
+		margin-left: 0px;
+		margin-right: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u17250
+	{
+		background-image: url("../images/board%20bw-u15784-fr_2x.jpg?crc=3765065549");
+	}
+
+	.hidpi #u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr_2x.png?crc=3943744818");
+	}
+
+	#u17251
+	{
+		width: 62px;
+		height: 62px;
+		background-image: url("../images/rawpixel-668353-bw-u16939-fr.jpg?crc=4079471103");
+		position: fixed;
+		top: 278px;
+		left: 105px;
+	}
+
+	#u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u16939-r-fr.png?crc=527400512");
+		background-color: #FFFFFF;
+		background-color: rgba(255,255,255,0.6);
+		margin-left: 0px;
+		margin-right: 0px;
+		margin-top: 0px;
+		width: 62px;
+		height: 62px;
+	}
+
+	.hidpi #u17251
+	{
+		background-image: url("../images/rawpixel-668353-bw-u16939-fr_2x.jpg?crc=3947261731");
+	}
+
+	.hidpi #u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u16939-r-fr_2x.png?crc=3776103222");
+	}
+
+	.js #u17248.ose_pre_init,.js #u17246.ose_pre_init,.js #u17250.ose_pre_init,.js #u17251.ose_pre_init
+	{
+		opacity: 0;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+		filter: alpha(opacity=0);
+	}
+
+	#u21612
+	{
+		top: 0px;
+	}
+
+	#u21613-5
+	{
+		top: 37px;
+		left: 63px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 18649px);
+	}
+
+	body
+	{
+		min-width: 1200px;
+	}
+}
+
+@media (min-width: 901px) and (max-width: 1200px)
+{
+	#muse_css_mq
+	{
+		background-color: #0004b0;
+	}
+
+	#bp_1200.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 900px;
+	}
+
+	#psikshahome
+	{
+		width: 0.01px;
+		margin-left: -127px;
+	}
+
+	#sikshahome
+	{
+		margin-left: 52px;
+	}
+
+	#pu17517-4
+	{
+		margin-top: 93px;
+	}
+
+	#u17517-4
+	{
+		left: 593px;
+	}
+
+	#u17207
+	{
+		width: 1453px;
+		margin-top: 3px;
+	}
+
+	#u17221-4,#u17213
+	{
+		width: 50px;
+		margin-right: -10000px;
+		margin-top: 124px;
+		left: 781px;
+	}
+
+	#u17216-4
+	{
+		width: 50px;
+	}
+
+	#u17215-4,#u17214-4
+	{
+		width: 50px;
+		min-height: 21px;
+	}
+
+	#u17206-4
+	{
+		width: 790px;
+		min-height: 238px;
+		margin-bottom: -47px;
+		margin-right: -10000px;
+		margin-top: 206px;
+		left: 433px;
+	}
+
+	#u17244
+	{
+		width: 769px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 34px;
+		left: 115px;
+	}
+
+	#u17251
+	{
+		width: 94px;
+		height: 94px;
+		background-image: url("../images/rawpixel-668353-bw.jpg?crc=3898172681");
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 38px;
+	}
+
+	#u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr.png?crc=148282207");
+		background-color: #FFFFFF;
+		background-color: rgba(255,255,255,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 38px;
+		width: 94px;
+		height: 94px;
+	}
+
+	.hidpi #u17251
+	{
+		background-image: url("../images/rawpixel-668353-bw_2x.jpg?crc=341888779");
+	}
+
+	.hidpi #u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr_2x.png?crc=3941211335");
+	}
+
+	#u17245
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+		left: 589px;
+	}
+
+	#u17246
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/cristina-gottardi-bw-unsplash.jpg?crc=4025746665");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr.png?crc=413810760");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17246
+	{
+		background-image: url("../images/cristina-gottardi-bw-unsplash_2x.jpg?crc=4036367429");
+	}
+
+	.hidpi #u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr_2x.png?crc=104985027");
+	}
+
+	#u17248
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17248:hover
+	{
+		background-image: url("../images/india-school-2-u17248-r-fr2.png?crc=525269521");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	#u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		background-color: #F4F4F4;
+		background-color: rgba(244,244,244,1);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17248,.hidpi #u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2_2x.jpg?crc=27528822");
+	}
+
+	#u17247,#u17249
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/board%20bw.jpg?crc=4175196995");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr2.png?crc=4134674711");
+		background-color: #F7F7F7;
+		background-color: rgba(244,244,244,0.65);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17250
+	{
+		background-image: url("../images/board%20bw_2x.jpg?crc=122761384");
+	}
+
+	.hidpi #u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr_2x2.png?crc=30890988");
+	}
+
+	#u18393,#u18461,#u18469,#u18476,#u18509,#u18517,#u18524,#u18531,#u18573,#u18581
+	{
+		margin-left: 303px;
+	}
+
+	#pu18387
+	{
+		margin-left: 241px;
+	}
+
+	#u18754
+	{
+		margin-left: 302px;
+		margin-top: 665px;
+	}
+
+	#u18761
+	{
+		width: 962px;
+		margin-left: 365px;
+	}
+
+	#u18768
+	{
+		margin-left: 302px;
+	}
+
+	#pu21612
+	{
+		z-index: 83;
+		width: 0.01px;
+		height: 0px;
+		padding-bottom: 111px;
+		margin-right: -10000px;
+		margin-top: 20px;
+	}
+
+	#u21612
+	{
+		top: 20px;
+	}
+
+	#u21613-5
+	{
+		top: 47px;
+		left: 160px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 19187px);
+	}
+
+	body
+	{
+		overflow-x: hidden;
+		min-width: 900px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 900px)
+{
+	#muse_css_mq
+	{
+		background-color: #000384;
+	}
+
+	#bp_900.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 768px;
+	}
+
+	#psikshahome
+	{
+		width: 0.01px;
+		margin-left: -127px;
+	}
+
+	#sikshahome
+	{
+		margin-left: 63px;
+	}
+
+	#pu17517-4
+	{
+		margin-top: 93px;
+	}
+
+	#u17517-4
+	{
+		left: 525px;
+	}
+
+	#u17207
+	{
+		width: 1453px;
+		margin-top: 3px;
+	}
+
+	#u17221-4,#u17213
+	{
+		width: 50px;
+		margin-right: -10000px;
+		margin-top: 124px;
+		left: 781px;
+	}
+
+	#u17216-4
+	{
+		width: 50px;
+	}
+
+	#u17215-4,#u17214-4
+	{
+		width: 50px;
+		min-height: 21px;
+	}
+
+	#u17206-4
+	{
+		width: 790px;
+		min-height: 238px;
+		margin-bottom: -47px;
+		margin-right: -10000px;
+		margin-top: 206px;
+		left: 433px;
+	}
+
+	#u17244
+	{
+		width: 769px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 34px;
+		left: 115px;
+	}
+
+	#u17251
+	{
+		width: 94px;
+		height: 94px;
+		background-image: url("../images/rawpixel-668353-bw.jpg?crc=3898172681");
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 38px;
+	}
+
+	#u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr.png?crc=148282207");
+		background-color: #FFFFFF;
+		background-color: rgba(255,255,255,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		margin-top: 38px;
+		width: 94px;
+		height: 94px;
+	}
+
+	.hidpi #u17251
+	{
+		background-image: url("../images/rawpixel-668353-bw_2x.jpg?crc=341888779");
+	}
+
+	.hidpi #u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr_2x.png?crc=3941211335");
+	}
+
+	#u17245
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+		left: 589px;
+	}
+
+	#u17246
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/cristina-gottardi-bw-unsplash.jpg?crc=4025746665");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr.png?crc=413810760");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17246
+	{
+		background-image: url("../images/cristina-gottardi-bw-unsplash_2x.jpg?crc=4036367429");
+	}
+
+	.hidpi #u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr_2x.png?crc=104985027");
+	}
+
+	#u17248
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17248:hover
+	{
+		background-image: url("../images/india-school-2-u17248-r-fr2.png?crc=525269521");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	#u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		background-color: #F4F4F4;
+		background-color: rgba(244,244,244,1);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17248,.hidpi #u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2_2x.jpg?crc=27528822");
+	}
+
+	#u17247,#u17249
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/board%20bw.jpg?crc=4175196995");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr2.png?crc=4134674711");
+		background-color: #F7F7F7;
+		background-color: rgba(244,244,244,0.65);
+		margin-left: 0px;
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+	}
+
+	.hidpi #u17250
+	{
+		background-image: url("../images/board%20bw_2x.jpg?crc=122761384");
+	}
+
+	.hidpi #u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr_2x2.png?crc=30890988");
+	}
+
+	#u18393,#u18461,#u18469,#u18476,#u18509,#u18517,#u18524,#u18531,#u18573,#u18581
+	{
+		margin-left: 303px;
+	}
+
+	#pu18387
+	{
+		margin-left: 241px;
+	}
+
+	#u18754
+	{
+		margin-left: 302px;
+		margin-top: 665px;
+	}
+
+	#u18761
+	{
+		width: 962px;
+		margin-left: 365px;
+	}
+
+	#u18768
+	{
+		margin-left: 302px;
+	}
+
+	#pu21612
+	{
+		z-index: 83;
+		width: 0.01px;
+		height: 0px;
+		padding-bottom: 111px;
+		margin-right: -10000px;
+	}
+
+	#u21612
+	{
+		top: 0px;
+	}
+
+	#u21613-5
+	{
+		top: 37px;
+		left: 63px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 19187px);
+	}
+
+	body
+	{
+		overflow-x: hidden;
+		min-width: 768px;
+	}
+}
+
+@media (max-width: 768px)
+{
+	#muse_css_mq
+	{
+		background-color: #000300;
+	}
+
+	#bp_768.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 100%;
+		max-width: 768px;
+	}
+
+	#psikshahome
+	{
+		width: 189.2%;
+	}
+
+	#sikshahome
+	{
+		left: 0%;
+		margin-left: -4.41%;
+	}
+
+	#pu17517-4
+	{
+		margin-top: 93px;
+		left: 0px;
+		margin-left: -127px;
+	}
+
+	#u17517-4
+	{
+		left: 525px;
+	}
+
+	#u17207
+	{
+		width: 1453px;
+		margin-top: 3px;
+	}
+
+	#u17221-4,#u17213
+	{
+		width: 50px;
+		margin-right: -10000px;
+		margin-top: 124px;
+		left: 781px;
+	}
+
+	#u17216-4
+	{
+		width: 50px;
+	}
+
+	#u17215-4,#u17214-4
+	{
+		width: 50px;
+		min-height: 21px;
+	}
+
+	#u17206-4
+	{
+		width: 790px;
+		min-height: 238px;
+		margin-bottom: -47px;
+		margin-right: -10000px;
+		margin-top: 206px;
+		left: 433px;
+	}
+
+	#u17244
+	{
+		width: 769px;
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 34px;
+		left: 7.92%;
+	}
+
+	#u17251
+	{
+		width: 94px;
+		height: 94px;
+		background-image: url("../images/rawpixel-668353-bw.jpg?crc=3898172681");
+		position: relative;
+		margin-right: -10000px;
+		margin-top: 38px;
+	}
+
+	#u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr.png?crc=148282207");
+		background-color: #FFFFFF;
+		background-color: rgba(255,255,255,0.6);
+		margin-right: -10000px;
+		margin-top: 38px;
+		width: 94px;
+		height: 94px;
+		margin-left: 0%;
+	}
+
+	.hidpi #u17251
+	{
+		background-image: url("../images/rawpixel-668353-bw_2x.jpg?crc=341888779");
+	}
+
+	.hidpi #u17251:hover
+	{
+		background-image: url("../images/rawpixel-668353-unsplash-u15782-r-fr_2x.png?crc=3941211335");
+	}
+
+	#u17245
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+		left: 76.6%;
+	}
+
+	#u17246
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/cristina-gottardi-bw-unsplash.jpg?crc=4025746665");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr.png?crc=413810760");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+		margin-left: 0%;
+	}
+
+	.hidpi #u17246
+	{
+		background-image: url("../images/cristina-gottardi-bw-unsplash_2x.jpg?crc=4036367429");
+	}
+
+	.hidpi #u17246:hover
+	{
+		background-image: url("../images/cristina-gottardi-462734-unsplash-u16963-r-fr_2x.png?crc=104985027");
+	}
+
+	#u17248
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17248:hover
+	{
+		background-image: url("../images/india-school-2-u17248-r-fr2.png?crc=525269521");
+		background-color: #F8F8F8;
+		background-color: rgba(244,244,244,0.6);
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+		margin-left: 0%;
+	}
+
+	#u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2.jpg?crc=3810289116");
+		background-color: #F4F4F4;
+		background-color: rgba(244,244,244,1);
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+		margin-left: 0%;
+	}
+
+	.hidpi #u17248,.hidpi #u17248.MuseLinkActive
+	{
+		background-image: url("../images/india-school-2_2x.jpg?crc=27528822");
+	}
+
+	#u17247,#u17249
+	{
+		width: 180px;
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250
+	{
+		width: 180px;
+		height: 180px;
+		background-image: url("../images/board%20bw.jpg?crc=4175196995");
+		position: relative;
+		margin-right: -10000px;
+	}
+
+	#u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr2.png?crc=4134674711");
+		background-color: #F7F7F7;
+		background-color: rgba(244,244,244,0.65);
+		margin-right: -10000px;
+		width: 180px;
+		height: 180px;
+		margin-left: 0%;
+	}
+
+	.hidpi #u17250
+	{
+		background-image: url("../images/board%20bw_2x.jpg?crc=122761384");
+	}
+
+	.hidpi #u17250:hover
+	{
+		background-image: url("../images/board-u15784-r-fr_2x2.png?crc=30890988");
+	}
+
+	#u18393,#u18461,#u18469,#u18476,#u18509,#u18517,#u18524,#u18531,#u18573,#u18581
+	{
+		left: 0px;
+		margin-left: 176px;
+	}
+
+	#pu18387
+	{
+		left: 0px;
+		margin-left: 114px;
+	}
+
+	#u18754
+	{
+		margin-top: 665px;
+		left: 0px;
+		margin-left: 175px;
+	}
+
+	#u18761
+	{
+		width: 962px;
+		left: 0px;
+		margin-left: 238px;
+	}
+
+	#u18768
+	{
+		left: 0px;
+		margin-left: 175px;
+	}
+
+	#pu21612
+	{
+		z-index: 83;
+		width: 0.01px;
+		height: 0px;
+		padding-bottom: 111px;
+		margin-right: -10000px;
+		margin-top: 20px;
+	}
+
+	#u21612
+	{
+		top: 20px;
+	}
+
+	#u21613-5
+	{
+		top: 47px;
+		left: 130px;
+	}
+
+	.css_verticalspacer .verticalspacer
+	{
+		height: calc(100vh - 19187px);
+	}
+
+	body
+	{
+		overflow-x: hidden;
+		min-width: 320px;
+	}
+}
+

@@ -1,160 +1,1281 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yashvardhandesign.com" resolutions="1x,2x" timestamp="1527443628359">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="false" exportTarget="other" domain="http://yashvardhan-chauhan.github.io,yashvardhandesign.com" resolutions="1x,2x" timestamp="1528488618996">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="522615932" ref="index"/>
-    <file name="nomq_index.css" crc="4066137849" ref="index"/>
-    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="untitled-5.css" crc="495403179" ref="untitled-5"/>
-    <file name="skills.css" crc="523440625" ref="skills"/>
-    <file name="nomq_skills.css" crc="264917632" ref="skills"/>
-    <file name="iefonts_skills.css" crc="3824530138" ref="skills"/>
-    <file name="untitled-4.css" crc="495403179" ref="untitled-4"/>
-    <file name="projects.css" crc="495403179" ref="projects"/>
+    <file name="site_global.css" crc="4017576507"/>
+    <file name="time-treasure.css" crc="3916558238" ref="time-treasure"/>
+    <file name="nomq_time-treasure.css" crc="403156547" ref="time-treasure"/>
+    <file name="kreeyt.css" crc="3875520306" ref="kreeyt"/>
+    <file name="nomq_kreeyt.css" crc="3882930869" ref="kreeyt"/>
+    <file name="journey.css" crc="253103657" ref="journey"/>
+    <file name="nomq_journey.css" crc="4092960899" ref="journey"/>
+    <file name="iefonts_journey.css" crc="321525473" ref="journey"/>
+    <file name="blog.css" crc="202950863" ref="blog"/>
+    <file name="flood.css" crc="354452831" ref="flood"/>
+    <file name="nomq_flood.css" crc="3950687810" ref="flood"/>
+    <file name="skills.css" crc="227194349" ref="skills"/>
+    <file name="nomq_skills.css" crc="226768018" ref="skills"/>
+    <file name="iefonts_skills.css" crc="321525473" ref="skills"/>
+    <file name="siksha.css" crc="4093897567" ref="siksha"/>
+    <file name="nomq_siksha.css" crc="11237484" ref="siksha"/>
+    <file name="index.css" crc="4147824727" ref="index"/>
+    <file name="nomq_index.css" crc="4072337481" ref="index"/>
+    <file name="iefonts_index.css" crc="321525473" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="file.eps" crc="8218064" seo="true" mt="1455774794000"/>
+    <file name="file.eps" crc="359102789" seo="true" mt="1527507706000"/>
     <file name="cristina-gottardi-462734-unsplash.jpg" crc="26764163" seo="true" mt="1527429523000"/>
     <file name="rawpixel-668353-unsplash.jpg" crc="3796872797" seo="true" mt="1527430637000"/>
     <file name="india-school-2.jpg" crc="4216998031" seo="true" mt="1505501078000"/>
     <file name="board.jpg" crc="3922067102" seo="true" mt="1474318508000"/>
+    <file name="programming.eps" crc="4248755703" seo="true" mt="1528184507000"/>
+    <file name="download.jpg" crc="4172273526" seo="true" mt="1528270745000"/>
+    <file name="dominic-hampton-615622-unsplash.jpg" crc="266136005" seo="true" mt="1528372640000"/>
+    <file name="sgm-logo-large.png" crc="75024389" seo="true" mt="1528373269000"/>
+    <file name="50f3522e87b7fad0cab6b182f9cd6707.jpg" crc="3784141395" seo="true" mt="1528374768000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="museutils.js" crc="3803043152" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="whatinput.js" crc="86476730" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:skills"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:skills:projects:untitled-4:untitled-5"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:skills"/>
-    <file name="require.js" crc="4157109226" ref="index:skills:projects:untitled-4:untitled-5"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="museutils.js" crc="3803043152" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="whatinput.js" crc="86476730" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:skills:journey"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:journey:kreeyt:flood:siksha:time-treasure"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure"/>
+    <file name="require.js" crc="4157109226" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure:blog"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="kreeyt:flood:siksha:time-treasure"/>
   </folder>
   <folder name="images">
-    <file name="b.png" crc="285075212" seo="true" ref="index">
+    <file name="artwork-17.svg" crc="3770816621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b_2x.png" crc="186357025" seo="true" ref="index">
+    <file name="artwork 17_poster_.png" crc="3818781200" ref="index"/>
+    <file name="artwork-20.svg" crc="3827517682" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="artwork 20_poster_.png" crc="3976220754" ref="index"/>
+    <file name="artwork-19.svg" crc="4064365458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 19_poster_.png" crc="4234928683" ref="index"/>
+    <file name="artwork-18.svg" crc="148451129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 18_poster_.png" crc="3856537934" ref="index"/>
+    <file name="artwork-21.svg" crc="3880655593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artwork 21_poster_.png" crc="98659943" ref="index"/>
     <file name="photo.png" crc="4034479814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b196x43.png" crc="4050705515" seo="true" ref="index">
+    <file name="artwork-22.svg" crc="4203687959" seo="true" ref="index:skills">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="b196x43_2x.png" crc="186357025" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
     </file>
+    <file name="artwork 22_poster_.png" crc="243932698" ref="index"/>
+    <file name="artwork-3.svg" crc="4053055905" seo="true" ref="index:skills">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+    </file>
+    <file name="artwork 3_poster_.png" crc="298242475" ref="index"/>
+    <file name="artwork-23.svg" crc="4114339348" seo="true" ref="index:skills">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+      <caption webpage="skills" alt=""/>
+    </file>
+    <file name="artwork 23_poster_.png" crc="381674899" ref="index"/>
     <file name="photo411x424.png" crc="4074804153" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b157x35.png" crc="171880945" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b157x35_2x.png" crc="186357025" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="photo329x339.png" crc="3947721363" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="b126x28.png" crc="214546624" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="b126x28_2x.png" crc="334411750" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="photo-crop-u1262.png" crc="73437869" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:skills"/>
-    <file name="section.png" crc="4046865079" seo="true" ref="skills">
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:skills:journey:kreeyt:flood:siksha:time-treasure"/>
+    <file name="21.png" crc="15020349" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
     </file>
-    <file name="section_2x.png" crc="11618441" seo="true" ref="skills">
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
-      <caption webpage="skills" alt=""/>
+    <file name="21_2x.png" crc="3994858602" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="22.png" crc="187291418" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="22_2x.png" crc="210353989" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="23.png" crc="111473062" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="23_2x.png" crc="429864187" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="24.png" crc="4094921056" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="24_2x.png" crc="387272669" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="25.png" crc="4221235475" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="25_2x.png" crc="3817837843" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="26.png" crc="3788041005" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="26_2x.png" crc="162811063" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="27.png" crc="484797228" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="27_2x.png" crc="4135249811" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="28.png" crc="499249380" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="28_2x.png" crc="265144687" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="29.png" crc="3997696606" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="29_2x.png" crc="4003923496" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="210.png" crc="4002768563" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="210_2x.png" crc="33236244" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="211.png" crc="478258381" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="211_2x.png" crc="442358002" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="212.png" crc="4292509835" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="212_2x.png" crc="4250438342" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="213.png" crc="17057111" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="213_2x.png" crc="3764918060" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="214.png" crc="4246516600" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="214_2x.png" crc="6199718" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="215.png" crc="3906900567" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="215_2x.png" crc="3795677412" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="216.png" crc="459141396" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="216_2x.png" crc="3837142838" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="217.png" crc="4218288660" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="217_2x.png" crc="92754327" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="218.png" crc="138401617" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="218_2x.png" crc="359857440" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="219.png" crc="502414244" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="219_2x.png" crc="19295136" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="220.png" crc="492005529" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="220_2x.png" crc="4090031631" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="221.png" crc="4077443160" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="221_2x.png" crc="471906967" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="222.png" crc="4001980468" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="222_2x.png" crc="4024006899" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="223.png" crc="4226395286" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="223_2x.png" crc="3862022339" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="224.png" crc="3910468597" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="224_2x.png" crc="357260081" seo="true" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="rawpixel-668353-unsplash-u15782-fr.jpg" crc="4081654301" ref="kreeyt"/>
+    <file name="rawpixel-668353-unsplash-u15782-fr_2x.jpg" crc="292818997" ref="kreeyt"/>
+    <file name="rawpixel-668353-unsplash-u15782-r-fr.png" crc="148282207" ref="kreeyt:flood:siksha:time-treasure"/>
+    <file name="rawpixel-668353-unsplash-u15782-r-fr_2x.png" crc="3941211335" ref="kreeyt:flood:siksha:time-treasure"/>
+    <file name="india-school-2bw-u15781-fr.jpg" crc="2651174" ref="kreeyt:flood:time-treasure"/>
+    <file name="india-school-2bw-u15781-fr_2x.jpg" crc="39950880" ref="kreeyt:flood:time-treasure"/>
+    <file name="india-school-2-u15781-r-fr.jpg" crc="3970452987" ref="kreeyt:flood:time-treasure"/>
+    <file name="india-school-2-u15781-r-fr_2x.jpg" crc="4005263150" ref="kreeyt:flood:time-treasure"/>
+    <file name="board bw-u15784-fr.jpg" crc="489388870" ref="kreeyt:flood:siksha"/>
+    <file name="board bw-u15784-fr_2x.jpg" crc="3765065549" ref="kreeyt:flood:siksha"/>
+    <file name="board-u15784-r-fr.png" crc="3803403985" ref="kreeyt:flood:siksha"/>
+    <file name="board-u15784-r-fr_2x.png" crc="3943744818" ref="kreeyt:flood:siksha"/>
+    <file name="cristina-gottardi-bw-unsplash-u15778-fr.jpg" crc="409402341" ref="kreeyt:siksha:time-treasure"/>
+    <file name="cristina-gottardi-bw-unsplash-u15778-fr_2x.jpg" crc="3981337796" ref="kreeyt:siksha:time-treasure"/>
+    <file name="cristina-gottardi-462734-unsplash-u15778-r-fr.png" crc="498808237" ref="kreeyt:siksha:time-treasure"/>
+    <file name="cristina-gottardi-462734-unsplash-u15778-r-fr_2x.png" crc="464063408" ref="kreeyt:siksha:time-treasure"/>
+    <file name="cristina-gottardi-bw-unsplash-u15778-fr2.jpg" crc="340274358" ref="kreeyt"/>
+    <file name="cristina-gottardi-bw-unsplash-u15778-fr_2x2.jpg" crc="3875729866" ref="kreeyt"/>
+    <file name="cristina-gottardi-462734-unsplash-u15778-r-fr2.png" crc="3956831321" ref="kreeyt:flood"/>
+    <file name="cristina-gottardi-462734-unsplash-u15778-r-fr_2x2.png" crc="3768886644" ref="kreeyt:flood"/>
+    <file name="rawpixel-668353-unsplash.jpg" crc="3811644272" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="rawpixel-668353-unsplash_2x.jpg" crc="4289038194" ref="kreeyt">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="rawpixel-668353-unsplash-u15782-r-fr2.png" crc="307392446" ref="kreeyt"/>
+    <file name="rawpixel-668353-unsplash-u15782-r-fr_2x2.png" crc="4214078030" ref="kreeyt"/>
+    <file name="india-school-2bw.jpg" crc="430112350" ref="kreeyt:flood:time-treasure">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="india-school-2bw_2x.jpg" crc="89613299" ref="kreeyt:flood:time-treasure">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="india-school-2.jpg" crc="3810289116" ref="kreeyt:flood:siksha:time-treasure">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="india-school-2_2x.jpg" crc="27528822" ref="kreeyt:flood:siksha:time-treasure">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="board bw.jpg" crc="4175196995" ref="kreeyt:flood:siksha">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="board bw_2x.jpg" crc="122761384" ref="kreeyt:flood:siksha">
+      <caption webpage="kreeyt" alt=""/>
+    </file>
+    <file name="board-u15784-r-fr2.png" crc="4134674711" ref="kreeyt:flood:siksha"/>
+    <file name="board-u15784-r-fr_2x2.png" crc="30890988" ref="kreeyt:flood:siksha"/>
+    <file name="11.png" crc="293934008" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="11_2x.png" crc="3858828281" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="12.png" crc="269596345" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="12_2x.png" crc="3847138226" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="13.png" crc="255821457" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="13_2x.png" crc="247556585" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="14.png" crc="3898216929" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="14_2x.png" crc="397740722" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="15.png" crc="3872517990" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="15_2x.png" crc="490778880" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="16.png" crc="153371723" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="16_2x.png" crc="3992936257" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="17.png" crc="4188822049" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="17_2x.png" crc="3932848437" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="18.png" crc="237790999" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="18_2x.png" crc="271178536" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="19.jpg" crc="73616116" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="19_2x.jpg" crc="55748636" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="110.png" crc="377606191" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="110_2x.png" crc="4178099222" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="111.png" crc="425147019" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="111_2x.png" crc="4179925813" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="112.png" crc="4110726059" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="112_2x.png" crc="257684210" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="113.png" crc="4105403191" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="113_2x.png" crc="4061880694" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="114.png" crc="4073857680" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="114_2x.png" crc="4005061681" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="115.png" crc="3901085124" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="115_2x.png" crc="3773811908" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="116.png" crc="60947226" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="116_2x.png" crc="4105735409" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="117.png" crc="477920822" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="117_2x.png" crc="132918714" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="118.png" crc="4158732714" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="118_2x.png" crc="4098130738" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="119-19.png" crc="89577381" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="119-19_2x.png" crc="4263864527" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="120.png" crc="3981200116" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="120_2x.png" crc="3848808393" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="121.png" crc="267571009" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="121_2x.png" crc="3834668539" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="122.png" crc="3860422495" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="122_2x.png" crc="57167317" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="123.png" crc="337537773" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="123_2x.png" crc="3847538769" seo="true" ref="flood">
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="cristina-gottardi-462734-unsplash-u16963-fr.jpg" crc="3966571599" ref="flood"/>
+    <file name="cristina-gottardi-462734-unsplash-u16963-fr_2x.jpg" crc="4283385196" ref="flood"/>
+    <file name="rawpixel-668353-bw-u16939-fr.jpg" crc="4079471103" ref="flood:siksha:time-treasure"/>
+    <file name="rawpixel-668353-bw-u16939-fr_2x.jpg" crc="3947261731" ref="flood:siksha:time-treasure"/>
+    <file name="rawpixel-668353-unsplash-u16939-r-fr.png" crc="527400512" ref="flood:siksha:time-treasure"/>
+    <file name="rawpixel-668353-unsplash-u16939-r-fr_2x.png" crc="3776103222" ref="flood:siksha:time-treasure"/>
+    <file name="rawpixel-668353-bw.jpg" crc="3898172681" ref="flood:siksha:time-treasure">
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="rawpixel-668353-bw_2x.jpg" crc="341888779" ref="flood:siksha:time-treasure">
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="cristina-gottardi-462734-unsplash.jpg" crc="3780528540" ref="flood">
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="cristina-gottardi-462734-unsplash_2x.jpg" crc="123179853" ref="flood">
+      <caption webpage="flood" alt=""/>
+    </file>
+    <file name="cristina-gottardi-462734-unsplash-u16963-r-fr.png" crc="413810760" ref="flood:siksha:time-treasure"/>
+    <file name="cristina-gottardi-462734-unsplash-u16963-r-fr_2x.png" crc="104985027" ref="flood:siksha:time-treasure"/>
+    <file name="31.png" crc="3826562499" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="31_2x.png" crc="128562847" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="32.png" crc="439447632" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="32_2x.png" crc="3974139180" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="33.png" crc="167696361" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="33_2x.png" crc="3758155109" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="34.jpg" crc="60163278" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="34_2x.jpg" crc="3886157638" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="35.png" crc="4218913954" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="35_2x.png" crc="293869194" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="36.png" crc="156839154" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="36_2x.png" crc="212976837" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="37.png" crc="3807334419" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="37_2x.png" crc="65824508" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="38.png" crc="4102924855" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="38_2x.png" crc="435821772" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="39.png" crc="392455822" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="39_2x.png" crc="4086859128" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="310.png" crc="3993406792" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="310_2x.png" crc="3948237399" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="311.png" crc="3856614037" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="311_2x.png" crc="3875639584" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="312.png" crc="118611968" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="312_2x.png" crc="4164168280" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="313.png" crc="3867310740" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="313_2x.png" crc="288949083" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="314.png" crc="4078747482" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="314_2x.png" crc="4125543577" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="315.png" crc="4002016405" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="315_2x.png" crc="4145455893" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="316.png" crc="4138703361" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="316_2x.png" crc="3936460477" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="317.png" crc="4016241179" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="317_2x.png" crc="48882662" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="318.png" crc="470000228" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="318_2x.png" crc="3882210960" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="319.png" crc="462963239" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="319_2x.png" crc="4160865012" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="321.png" crc="3826443924" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="321_2x.png" crc="102483539" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="322.png" crc="3936622455" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="322_2x.png" crc="4225533034" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="323.png" crc="4060594548" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="323_2x.png" crc="4278770318" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="india-school-2-u17248-fr.jpg" crc="423325842" ref="siksha"/>
+    <file name="india-school-2-u17248-fr_2x.jpg" crc="218591836" ref="siksha"/>
+    <file name="india-school-2-u17248-r-fr.png" crc="473589399" ref="siksha"/>
+    <file name="india-school-2-u17248-r-fr_2x.png" crc="4190472500" ref="siksha"/>
+    <file name="320.png" crc="4106868740" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="320_2x.png" crc="381690952" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="cristina-gottardi-bw-unsplash.jpg" crc="4025746665" ref="siksha:time-treasure">
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="cristina-gottardi-bw-unsplash_2x.jpg" crc="4036367429" ref="siksha:time-treasure">
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="india-school-2-u17248-r-fr2.png" crc="525269521" ref="siksha"/>
+    <file name="322962x1024.png" crc="126013136" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="322962x1024_2x.png" crc="3873697587" seo="true" ref="siksha">
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+      <caption webpage="siksha" alt=""/>
+    </file>
+    <file name="41.jpg" crc="4193295049" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="41_2x.jpg" crc="166235573" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="42.png" crc="375529288" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="42_2x.png" crc="410630594" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="43.png" crc="454902895" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="43_2x.png" crc="3857382657" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="44.jpg" crc="4243471400" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="45.png" crc="3881953976" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="45_2x.png" crc="4271856882" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="46.png" crc="4003034679" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="46_2x.png" crc="3945625702" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="47.jpg" crc="3984466516" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="47_2x.jpg" crc="3965158370" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="48.jpg" crc="278370288" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="48_2x.jpg" crc="418224581" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="49.jpg" crc="3990692841" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="49_2x.jpg" crc="214088901" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="410.jpg" crc="243681002" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="410_2x.jpg" crc="3999582274" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="411.jpg" crc="3912826236" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="411_2x.jpg" crc="121174238" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="412.jpg" crc="4286162565" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="412_2x.jpg" crc="159900676" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="413.jpg" crc="4036382815" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="414.jpg" crc="3879647411" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="415.png" crc="3885896910" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="416.png" crc="4058172631" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="417.png" crc="4242904609" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="418.png" crc="199187260" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="419.jpg" crc="371825324" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="420.jpg" crc="245175596" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="421.png" crc="389011519" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="422.png" crc="445886584" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="422_2x.png" crc="260173656" seo="true" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="board-u19321-fr.jpg" crc="4115600043" ref="time-treasure"/>
+    <file name="board-u19321-fr_2x.jpg" crc="3945818315" ref="time-treasure"/>
+    <file name="board-u19321-r-fr.png" crc="120031715" ref="time-treasure"/>
+    <file name="board-u19321-r-fr_2x.png" crc="4067355089" ref="time-treasure"/>
+    <file name="board.jpg" crc="4265041892" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="board_2x.jpg" crc="426539459" ref="time-treasure">
+      <caption webpage="time-treasure" alt=""/>
+    </file>
+    <file name="board-u19321-r-fr2.png" crc="393472672" ref="time-treasure"/>
+    <file name="board-u19321-r-fr_2x2.png" crc="3802884835" ref="time-treasure"/>
+    <file name="photo2.png" crc="492983323" seo="true" ref="blog">
+      <caption webpage="blog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4044751870" seo="true" mt="1527443620513" redirect="true"/>
-  <file name="skills.html" crc="4255440066" seo="true" mt="1527433912460" redirect="true"/>
-  <file name="projects.html" crc="94356310" seo="true" mt="1527250233339" redirect="false"/>
-  <file name="untitled-4.html" crc="3935178299" seo="true" mt="1527245296553" redirect="false"/>
-  <file name="untitled-5.html" crc="3827260455" seo="true" mt="1527397239570" redirect="false"/>
+  <file name="index.html" crc="3905012962" seo="true" mt="1528488386787" redirect="true"/>
+  <file name="skills.html" crc="3985595330" seo="true" mt="1528487992639" redirect="true"/>
+  <file name="journey.html" crc="386129365" seo="true" mt="1528488228669" redirect="true"/>
+  <file name="kreeyt.html" crc="4287133028" seo="true" mt="1528488166833" redirect="true"/>
+  <file name="flood.html" crc="3821920748" seo="true" mt="1528488175592" redirect="true"/>
+  <file name="siksha.html" crc="3874398369" seo="true" mt="1528488185069" redirect="true"/>
+  <file name="time-treasure.html" crc="299191834" seo="true" mt="1528488192595" redirect="true"/>
+  <file name="blog.html" crc="4240005805" seo="true" mt="1528487992646" redirect="true"/>
 </manifest>
